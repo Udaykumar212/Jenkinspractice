@@ -27,13 +27,13 @@
 	
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>nexusRepo</id>
-		    <url>http://34.208.218.12:8081/repository/sample-snapshots/</url>
+		    <id>MyRepo</id>
+		    <url>http://3.80.234.127:8081/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
-		    <url>http://44.202.251.20:8081/repository/flm-releases/</url>
+		    <id>MyRepo</id>
+		    <url>http://3.80.234.127:8081/repository/MyRepo/</url>
 		</repository>
   	</distributionManagement>
 	
