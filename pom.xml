@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>MyRepoSnapshots</id>
-		    <url>http://3.80.234.127:8081/repository/maven-snapshots/</url>
+		    <url>http://98.82.179.74:8081/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>MyRepo</id>
-		    <url>http://3.80.234.127:8081/repository/MyRepo/</url>
+		    <url>http://98.82.179.74:8081/repository/myrepo/</url>
 		</repository>
   	</distributionManagement>
 	
